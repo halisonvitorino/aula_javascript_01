@@ -21,6 +21,8 @@ function soma (n1, n2){
 
 alert(soma(10,10));
 
+
+
 /*var contador = 10;
 while(contador > 1){
     console.log(contador);
