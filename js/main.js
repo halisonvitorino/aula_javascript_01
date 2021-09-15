@@ -18,7 +18,6 @@ alert("Estamos na hora " + data.getHours());
 function soma (n1, n2){
     return n1 + n2;
 }
-
 alert(soma(10,10));
 
 
